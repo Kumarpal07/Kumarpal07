@@ -6,13 +6,18 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+scalable+software;BE+Student+at+LJIET;Exploring+AI+%2F+ML;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
 </a>
 
-<img src="https://img.shields.io/badge/🎓_BE_Engineering-LJ_Institute_of_Engineering_%26_Technology-6a0dad?style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/📍_Location-Ahmedabad,_India-4b0082?style=for-the-badge&labelColor=1a1a2e"/>
 
 <br/><br/>
 
+**Computer Engineering** &nbsp;·&nbsp; **LJ Institute of Engineering and Technology** &nbsp;·&nbsp; **Ahmedabad**
+<br/>
+**[Year]** &nbsp;·&nbsp; **[Semester]**
+
+<br/>
+
 <a href="[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kumarpalsinh-zala-976514328/"><img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kumarpalz979@gmail.com"><img src="https://img.shields.io/badge/Email-4b0082?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Kumarpal07"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -21,6 +26,11 @@
 <img src="https://komarev.com/ghpvc/?username=Kumarpal07&style=for-the-badge&color=6a0dad&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/Kumarpal07?style=for-the-badge&color=4b0082&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/github/stars/Kumarpal07?style=for-the-badge&color=8A2BE2&labelColor=1a1a2e"/>
+
+<br/><br/>
+
+"I'd rather build something small that actually works than something big that only looks like it does."
+
 
 </div>
 
@@ -32,14 +42,24 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
-- 🎓 BE Engineering student at **LJ Institute of Engineering and Technology (LJIET)**
-- 💻 Focused on **[YOUR_PRIMARY_INTEREST — e.g. Full Stack Development / AI-ML / Backend Engineering]**
-- 🔭 Currently building: **Agronex**
-- 🌱 Currently learning: **django,react,rest_framework,model-train,api**
+A project, a course, a problem  which I solve like Agronex/crop analysis pulled me towards AI/ML .When I'm stuck I usually break it down smaller,ask someone and keep trying.
+
+
+- 🎓 BE Engineering student at **LJ Institute of Engineering and Technology (LJIET)**, 4th SEM
+- 💻 Focused on: **AI/ML, Backend and Frontend Development, Full Stack**
+- 🔭 Currently building: **Agronex** — AI powered Farming Advisor
+- 🌱 Currently learning: **mongoDB,React,nodeJS**
 - 🤝 Open to: **Internships, Open Source Collaboration, Software Engineering roles**
 
-
 <br clear="both"/>
+
+---
+
+## 📚 Currently Learning
+
+I'm currently leaning ML concepts, DSA topics like LinkedList, stacks etc and practicing continuously on DSA platform like LeetCode.Also I'm digging into auth,APIs,database and System Design Basics
+
+> I am genuinely working on AgroNex for  making more futuristic and farmer friendly 
 
 ---
 
@@ -49,22 +69,35 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=Python,JAVA,HTML,CSS,JAVASCRIPT&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=py,java,js,html,css&theme=dark"/>
+
+**AI / ML / Data**
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,[FE2],[FE3]&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark"/>
 
-**Backend & Databases**
+**Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongoose,django&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express&theme=dark"/>
+<img src="https://img.shields.io/badge/REST_APIs-6a0dad?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-**Cloud, DevOps & Tooling**
+**Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=[CLOUD1],[TOOL1],[TOOL2]&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark"/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,vscode,idea,jupyter&theme=dark"/>
 
 </div>
-
 
 ---
 
@@ -72,48 +105,66 @@
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| AI-Powered Crop Analysis | Beginner to Intermediate | AgroNex |
+| AI-Powered Crop Analysis | Intermediate | Built in **Agronex** — [CNN-based image classification for crop health,YOLO model for crop disease detection] |
+| [e.g. Data Analysis] | [Level] | [Tools used — pandas, numpy, etc.] |
+| [e.g. Deep Learning] | [Level] | [Frameworks, coursework] |
 
-
+> Fill this table only with domains you've actually studied or worked in — leave it out entirely if you're not yet focused on AI/ML.
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>📌 [AgroNex]</b></summary>
+<summary><b>🌾 Agronex — AI-Powered Crop Analysis</b></summary>
 <br/>
 
-[ai based crop dicease detection by model train,weather prediction,mandi price analysis]
+[One or two line description — e.g. "An AI-driven platform that analyzes crop images to detect health issues/diseases and exposes predictions via a REST API."]
 
 | Aspect | Detail |
 |---|---|
-| **Stack** | Python,rest-api |
+| **Stack** | [e.g. Python, TensorFlow/PyTorch, FastAPI/Flask, OpenCV] |
+| **Scale** | [e.g. number of crop classes / images trained on] |
+| **Performance** | [e.g. model accuracy, inference time] |
+| **Security** | [e.g. API auth method, input validation] |
+| **Impact** | [e.g. use case — helps farmers detect disease early, reduces crop loss] |
+| **Repository** | [Link] |
+
+[Short paragraph: what the AI model does, how the API is structured/consumed, and what you learned building it]
+
+</details>
+
+<details>
+<summary><b>📌 [PROJECT_NAME]</b></summary>
+<br/>
+
+[One or two line description of what the project does and the problem it solves]
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | [Tech used] |
 | **Repository** | [Link] |
 
 [Short paragraph explaining your role, key features, and what you learned]
 
 </details>
 
+<details>
+<summary><b>📌 [PROJECT_NAME_2]</b></summary>
+<br/>
 
+[Description]
 
+| Aspect | Detail |
+|---|---|
+| **Stack** | [Tech used] |
+| **Repository** | [Link] |
 
----
+[Paragraph]
 
+</details>
 
-<!--
-#### [Job/Internship Title] — [Company Name]
-**[Date Range]**
-
-[Description of role]
-
-- [Responsibility/achievement]
-- [Responsibility/achievement]
-
-`Skill` `Skill` `Skill`
--->
-
-
+> Add one collapsible block per real project. Even a college assignment or the "demo" repo you already have counts — just describe it honestly.
 
 ---
 
@@ -122,18 +173,23 @@
 
 
 
-## 💻 Coding Profiles
+## 📜 Certifications
 
-<div align="center">
+<!-- Group by provider once you have real certs, e.g.: -->
 
-<a href="https://leetcode.com/[YOUR_USERNAME]"><img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=orange"/></a>
-<a href="https://www.geeksforgeeks.org/user/[YOUR_USERNAME]"><img src="https://img.shields.io/badge/GeeksforGeeks-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=green"/></a>
-<a href="https://www.hackerrank.com/[YOUR_USERNAME]"><img src="https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/></a>
-<a href="https://www.codechef.com/users/[YOUR_USERNAME]"><img src="https://img.shields.io/badge/CodeChef-1a1a2e?style=for-the-badge&logo=codechef&logoColor=5B4638"/></a>
+**NPTEL**
+<br/>
+<!-- <img src="https://img.shields.io/badge/-[Course_Name]-6a0dad?style=flat-square"/> -->
 
-</div>
+**AWS**
+<br/>
+<!-- <img src="https://img.shields.io/badge/-[Cert_Name]-orange?style=flat-square&logo=amazonaws"/> -->
+
+> Add badges only for certifications you've actually completed.
 
 ---
+
+
 
 ## 📊 GitHub Analytics
 
@@ -191,11 +247,30 @@ Open To: Internships, Collaboration, Open Source Contributions
 
 ---
 
+## 💭 Philosophy
+
+[2-4 sentences on how you actually think about building software — what you've learned it's really about, what you're optimizing for as you grow. This is the section that gives the profile personality — write it yourself, don't let it sound generic.]
+
+---
+
+## 🌍 Beyond the Code
+
+| | |
+|---|---|
+| **[Hackathon/Event name]** | [What it was, what you built/learned] |
+| **[Hackathon/Event name]** | [What it was, what you built/learned] |
+| **LeetCode** | [Problem count / what your practice looks like] |
+| **Certificates** | [List real certs — provider and course name] |
+
+> Fill this in only with things that actually happened — one real hackathon beats three placeholder rows.
+
+---
+
 ## 📬 Connect With Me
 
 <div align="center">
 
-<a href="mailto:kumarpalz979@gmail.com"><img src="https://img.shields.io/badge/Gmail-6a0dad?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Gmail-6a0dad?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Kumarpal07"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
