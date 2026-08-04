@@ -135,18 +135,18 @@ I'm currently leaning ML concepts, DSA topics like LinkedList, stacks etc and pr
 </details>
 
 <details>
-<summary><b>📌 [PROJECT_NAME]</b></summary>
+<summary><b>🏠 Hostel Accommodation System — Java + MySQL Management Console</b></summary>
 <br/>
-
-[One or two line description of what the project does and the problem it solves]
+A console-based hostel management system handling student and rector (admin) workflows end-to-end — signup/login, room allotment, fee payments, laundry requests, leave applications, room complaints, and hostel community events.
 
 | Aspect | Detail |
 |---|---|
-| **Stack** | [Tech used] |
-| **Repository** | [Link] |
+| **Stack** | Java (JDK 21), JDBC, MySQL |
+| **Scale** | 5 core modules (auth, payments, laundry, leave, complaints) across student and rector portals |
+| **Data structures** | Custom singly linked list for FIFO complaint queue; `HashSet`-based duplicate checks for email/mobile on signup |
+| **Security** | Parameterized queries (`PreparedStatement`) throughout to prevent SQL injection; password-gated rector access |
 
-[Short paragraph explaining your role, key features, and what you learned]
-
+🔗 [View Repo](https://github.com/Kumarpal07/Hostel-Accommodation-System-)
 </details>
 
 <details>
