@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-**Computer Engineering** &nbsp;·&nbsp; **LJ Institute of Engineering and Technology** &nbsp;·&nbsp; **Ahmedabad**
+**AIDS Engineering** &nbsp;·&nbsp; **LJ Institute of Engineering and Technology** &nbsp;·&nbsp; **Ahmedabad**
 <br/>
 **[Year]** &nbsp;·&nbsp; **[Semester]**
 
