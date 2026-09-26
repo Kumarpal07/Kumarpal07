@@ -12,11 +12,11 @@
 
 **AIDS Engineering** &nbsp;·&nbsp; **LJ Institute of Engineering and Technology** &nbsp;·&nbsp; **Ahmedabad**
 <br/>
-**[Year]** &nbsp;·&nbsp; **[Semester]**
+**3** &nbsp;·&nbsp; **5**
 
 <br/>
 
-<a href="[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+//<a href="[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/kumarpalsinh-zala-976514328/"><img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kumarpalz979@gmail.com"><img src="https://img.shields.io/badge/Email-4b0082?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Kumarpal07"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -106,8 +106,8 @@ I'm currently leaning ML concepts, DSA topics like LinkedList, stacks etc and pr
 | Domain | Proficiency | Details |
 |---|---|---|
 | AI-Powered Crop Analysis | Intermediate | Built in **Agronex** — [CNN-based image classification for crop health,YOLO model for crop disease detection] |
-| [e.g. Data Analysis] | [Level] | [Tools used — pandas, numpy, etc.] |
-| [e.g. Deep Learning] | [Level] | [Frameworks, coursework] |
+| Hostel Accommodation System | Basic to Intermediate | [JDBC,OOPs,MySQL] |
+| Swigato | Intermediate | [OOPs] |
 
 > Fill this table only with domains you've actually studied or worked in — leave it out entirely if you're not yet focused on AI/ML.
 
@@ -119,16 +119,16 @@ I'm currently leaning ML concepts, DSA topics like LinkedList, stacks etc and pr
 <summary><b>🌾 Agronex — AI-Powered Crop Analysis</b></summary>
 <br/>
 
-[One or two line description — e.g. "An AI-driven platform that analyzes crop images to detect health issues/diseases and exposes predictions via a REST API."]
+["An AI-driven platform that analyzes crop images to detect health issues/diseases and exposes predictions via a REST API."]
 
 | Aspect | Detail |
 |---|---|
-| **Stack** | [e.g. Python, TensorFlow/PyTorch, FastAPI/Flask, OpenCV] |
-| **Scale** | [e.g. number of crop classes / images trained on] |
-| **Performance** | [e.g. model accuracy, inference time] |
-| **Security** | [e.g. API auth method, input validation] |
-| **Impact** | [e.g. use case — helps farmers detect disease early, reduces crop loss] |
-| **Repository** | [Link] |
+| **Stack** | [Python, TensorFlow/PyTorch, FastAPI/Flask] |
+| **Scale** | [number of crop classes / images trained on] |
+| **Performance** | [high model accuracy,low inference time] |
+| **Security** | [ API auth method, input validation] |
+| **Impact** | [use case — helps farmers detect disease early, reduces crop loss] |
+
 
 [Short paragraph: what the AI model does, how the API is structured/consumed, and what you learned building it]
 
