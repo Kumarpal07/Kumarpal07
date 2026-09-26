@@ -12,7 +12,7 @@
 
 **AIDS Engineering** &nbsp;·&nbsp; **LJ Institute of Engineering and Technology** &nbsp;·&nbsp; **Ahmedabad**
 <br/>
-**3** &nbsp;·&nbsp; **5**
+**3rd year** &nbsp;·&nbsp; **5th sem**
 
 <br/>
 
